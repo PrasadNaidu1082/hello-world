@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <p> Welcome to the PN CLASSICS!!! GLAD TO HAVE TO HEAR </p>
+    <p> Welcome to the PN CLASSICS!!! </p>
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -20,5 +20,6 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p> Thank you for registration. Our team would get in touch with you. </p>
   </div>
 </form>
