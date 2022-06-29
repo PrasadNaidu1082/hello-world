@@ -22,6 +22,6 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-    <p> Thank you course is over, WAY TO GO!!!! </p>
+    <p> Thank you registration is completed, WAY TO GO!!!! </p>
   </div>
 </form>
